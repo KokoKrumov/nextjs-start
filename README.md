@@ -1,1 +1,1 @@
-# react-redux-middleware
+#nextjs starting point
